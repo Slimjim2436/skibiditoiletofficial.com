@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Skibidi Toilet</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+            color: #333;
+        }
+        .header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        .content {
+            padding: 20px;
+        }
+        .bio {
+            margin-bottom: 20px;
+        }
+        .media img {
+            max-width: 100%;
+            height: auto;
+        }
+        .contact {
+            margin-top: 20px;
+        }
+        .contact a {
+            color: #333;
+            text-decoration: none;
+            border: 1px solid #333;
+            padding: 5px 10px;
+            border-radius: 5px;
+        }
+        .contact a:hover {
+            background-color: #333;
+            color: #fff;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Skibidi Toilet</h1>
+    </div>
+    <div class="content">
+        <div class="bio">
+            <h2>About Skibidi Toilet</h2>
+            <p>Skibidi Toilet is an innovative and unique artist known for blending surreal visuals with captivating performances. Their work pushes the boundaries of traditional art forms, creating an immersive experience for their audience.</p>
+        </div>
+        <div class="media">
+            <h2>Artwork</h2>
+            <p>Check out some of Skibidi Toilet's latest creations below:</p>
+            <img src="path/to/your/image1.jpg" alt="Artwork 1">
+            <img src="path/to/your/image2.jpg" alt="Artwork 2">
+        </div>
+        <div class="contact">
+            <h2>Contact</h2>
+            <p>Follow Skibidi Toilet on social media:</p>
+            <a href="https://twitter.com/skibiditoilet" target="_blank">Twitter</a>
+            <a href="https://instagram.com/skibiditoilet" target="_blank">Instagram</a>
+            <a href="mailto:skibiditoilet@example.com">Email</a>
+        </div>
+    </div>
+</body>
+</html>
